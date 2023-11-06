@@ -1,4 +1,4 @@
-FROM alpine:3.6
+FROM arm64v8/alpine:latest
 
 ENV VERSION=0.2.2
 
